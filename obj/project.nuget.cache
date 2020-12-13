@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8U47z/i082FkBEqYkXQLC99hH4QL6BhsiKo67JIE36GWl72hvZ+XiWma23B1sXQTtnWfO/FbLXVcUB34QxLhYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bla\\source\\repos\\OOPLections\\7.TelePolymorhism\\7.TelePolymorhism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Bla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
